@@ -1,0 +1,48 @@
+/* Empty. Add your own CSS if you like */
+.scroll{
+  height: 100%;
+}
+
+#map{
+  width: 100%;
+  height: 100%;
+}
+
+.div-buttons
+{
+     display: flex;
+     justify-content: space-between;
+     width: 100%;
+}
+
+.active
+{
+     background-color: grey;
+     color: white;
+     border-radius: 5px;
+}
+
+.inactivediv
+{
+     border-radius: 5px;
+     padding: 10px;
+
+}
+
+.activediv
+{
+     background-color: grey;
+     color: white;
+     border-radius: 5px;
+     padding: 10px;
+}
+
+.ionitem
+{
+     padding: 0px;
+}
+
+.navbar
+{
+     width: 50px;
+}
